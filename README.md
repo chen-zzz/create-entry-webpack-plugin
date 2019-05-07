@@ -37,6 +37,8 @@ console.log('this is global.js');
 ```
 #### output:
 ``` javascript
+// -- entry.all.js
+
 // some code 
 console.log('hello world');
 console.log('this is global.js');
