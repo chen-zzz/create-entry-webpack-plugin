@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chen-zzz/create-entry-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/chen-zzz/create-entry-webpack-plugin#readme"
+  "homepage": "https://github.com/chen-zzz/create-entry-webpack-plugin#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "lodash.uniq": "^4.5.0"
+  }
 }
