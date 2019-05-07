@@ -1,6 +1,6 @@
 {
   "name": "create-entry-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "生成一个能加载webpack打包后的文件的entry.js入口文件的webpack plugin",
   "main": "index.js",
   "scripts": {
